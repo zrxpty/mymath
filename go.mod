@@ -1,3 +1,3 @@
-module github.com/zrxpty/mymath
+module mymath
 
 go 1.19
